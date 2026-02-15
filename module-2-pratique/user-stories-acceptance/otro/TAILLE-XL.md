@@ -87,21 +87,24 @@ Afin de livrer une fonctionnalité majeure avec une très forte valeur métier.
 
 ### ⚡ Règles spéciales XL
 
+#### ⚠️ Dépréciation de la valeur (même en cas de succès !)
+Les tâches XL sont **floues et difficiles à estimer**. Leur valeur métier est **incertaine**.
+- **Valeur dépréciée** : Même si complétée, les XL comptent seulement **50% de leurs story points** au scoring final
+- **Exemple** : Une XL de 10 pts terminée = seulement **5 points** au score
+- **Seul avantage en cas de succès** : Momentum (+1 sur tous les dés au prochain sprint)
+
 #### 🚫 Pénalités en cas d'échec
 Si la tâche XL **n'est pas terminée** à la fin du sprint :
 - **-50% des points** : L'équipe perd la moitié des story points estimés
 - **Dette technique** : Le prochain sprint commence avec un malus de -1 sur tous les dés
+- **Pénalité découpage** : 0 points sur le critère "Éviter les XL" du scoring
 
-#### 🎁 Bonus en cas de succès
-Si la tâche XL **est complétée** :
-- **+100% des points** : L'équipe gagne le **double** des story points
-- **Momentum** : +1 sur tous les dés au prochain sprint
-
-#### 🔧 Recommandation : Découper !
-Il est **fortement recommandé** de découper une tâche XL en plusieurs tâches M/S pour :
-- Réduire le risque
-- Livrer de la valeur incrémentale
-- Améliorer la prévisibilité
+#### 🔧 Recommandation : DÉCOUPER !
+Il est **FORTEMENT recommandé** de découper une tâche XL en plusieurs tâches M/S pour :
+- **Réduire le risque** d'échec complet
+- **Livrer de la valeur incrémentale** (100% de la valeur au lieu de 50%)
+- **Améliorer la prévisibilité** et le taux de complétion
+- **Obtenir de meilleurs points** au scoring final
 
 ### Stratégie recommandée
 - ❌ **À éviter** : Ne **jamais** prendre plusieurs XL dans un sprint

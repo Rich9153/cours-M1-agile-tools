@@ -36,15 +36,13 @@
 
 ### EPIC 2 : Gestion des Produits (Artisan)
 
-| ID | User Story | Estimation | Valeur | Priorité |
-|----|-----------|------------|--------|----------|
-| FM-7 | En tant qu'**artisan**, je veux **ajouter un produit** (nom, description, prix, photo) afin de **le vendre** | ? | ? | ? |
-| FM-8 | En tant qu'**artisan**, je veux **voir la liste de mes produits** afin de **gérer mon catalogue** | ? | ? | ? |
-| FM-9 | En tant qu'**artisan**, je veux **modifier un produit** afin de **corriger les erreurs** | ? | ? | ? |
-| FM-10 | En tant qu'**artisan**, je veux **supprimer un produit** afin de **retirer les articles épuisés** | ? | ? | ? |
-| FM-11 | En tant qu'**artisan**, je veux **définir le stock disponible** afin d'**éviter les surventes** | ? | ? | ? |
-| FM-12 | En tant qu'**artisan**, je veux **ajouter plusieurs photos à un produit** afin de **mieux le présenter** | ? | ? | ? |
-| FM-13 | En tant qu'**artisan**, je veux **catégoriser mes produits** (bijoux, poterie, textile...) afin de **faciliter la recherche** | ? | ? | ? |
+| ID | User Story                                                                                                                                | Estimation | Valeur | Priorité |
+|----|-------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|----------|
+| FM-7 | En tant qu'**artisan**, je veux **ajouter un produit** (nom, description, prix, photo) afin de **le vendre**                              | ?          | ? | ? |
+| FM-8 | En tant qu'**artisan**, je veux **voir la liste de mes produits** afin de **gérer mon catalogue** en modifiant et supprimant des articles | XL         | ? | ? |
+| FM-11 | En tant qu'**artisan**, je veux **définir le stock disponible** afin d'**éviter les surventes**                                           | ?          | ? | ? |
+| FM-12 | En tant qu'**artisan**, je veux **ajouter plusieurs photos à un produit** afin de **mieux le présenter**                                  | ?          | ? | ? |
+| FM-13 | En tant qu'**artisan**, je veux **catégoriser mes produits** (bijoux, poterie, textile...) afin de **faciliter la recherche**             | ?          | ? | ? |
 
 ---
 
@@ -121,7 +119,7 @@ Ces stories apparaîtront pendant le jeu, simulant la réalité :
 
 ## Instructions pour l'équipe
 
-### 1. Première tâche : Estimation (15-20 min)
+### 1. Première tâche JOUR 1: Estimation (15-20 min)
 
 **En équipe, estimez TOUTES les stories du backlog initial (FM-1 à FM-40) :**
 
@@ -136,7 +134,7 @@ FM-7 (Ajouter un produit) = 5 points
 → Stories plus complexes (ex: paiement Stripe) = 8-13 pts
 ```
 
-### 2. Priorisation initiale (10 min)
+### 2. Priorisation initiale JOUR 2 (10 min)
 
 **Le Product Owner priorise le backlog selon :**
 - Dépendances (ex: il faut créer un compte avant d'ajouter des produits)
@@ -159,16 +157,8 @@ Pour chaque story, **au minimum** :
 
 ---
 
-## Estimations suggérées (à cacher aux étudiants !)
+## Estimations suggérées (à vos risques et périls)
+ 
+**Total estimé :** ~200-250 points 
 
-| Epic | Stories faciles (1-3) | Stories moyennes (5) | Stories complexes (8-13) |
-|------|----------------------|---------------------|--------------------------|
-| Auth | FM-2, FM-6 (2-3 pts) | FM-1, FM-5 (3-5 pts) | FM-3 (5 pts) |
-| Produits | FM-10 (2 pts) | FM-7, FM-8, FM-9 (3-5 pts) | FM-11, FM-12, FM-13 (5-8 pts) |
-| Catalogue | FM-15 (3 pts) | FM-14, FM-16 (5 pts) | FM-17, FM-18 (5-8 pts) |
-| Panier | FM-20, FM-23 (2-3 pts) | FM-21, FM-22, FM-24 (3-5 pts) | FM-25 (5 pts), FM-26 (13 pts!) |
-| Commandes | FM-28 (2 pts) | FM-27, FM-29, FM-30 (3-5 pts) | FM-31 (8 pts - email) |
-| Bonus | FM-33 (2 pts) | FM-32, FM-36 (5 pts) | FM-34, FM-35, FM-37-40 (8-13 pts) |
-
-**Total estimé :** ~200-250 points (impossible à faire en 6 sprints !)
 **Vélocité réaliste :** 20-25 points/sprint → choix stratégiques nécessaires
