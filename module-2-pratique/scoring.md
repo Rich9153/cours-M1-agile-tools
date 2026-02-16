@@ -8,37 +8,30 @@ Ce document définit comment calculer le score final des équipes à la fin du j
 
 Le score final est calculé selon **4 piliers** :
 
-### 1️⃣ Valeur métier livrée  
+### 1️⃣ Valeur métier livrée
 
-**Calcul** : Points de vélocité accumulés sur tous les sprints
+**Calcul** : Valeur métier accumulée sur tous les sprints
 
 #### Scoring
-- **1 point de vélocité = 1 point de score** (pour tailles S et M uniquement)
-- **⚠️ Pénalité XL réussie** : Les tâches XL comptent seulement **50% de leur valeur** (floues, difficiles à estimer, valeur métier incertaine)
-- **❌ Malus  échouée** : **-50% des story points** de la tâche  non terminée
-- **📉 Malus US ouvertes** :  retrancher  2 x points d'estimation pour chaque US **non commencée** en fin de sprint (work-in-progress excessif)
-- **📈Malus vélocité non alignée** : à la 2e itération vous devez appliquer la vélocité constatée à la 1ère itération (= votre capacité à produire.)
-Si en fin de sprint, votre vélocité n'est pas atteinte, c'est à dire que vous avez moins de points effectués que prévu, **retrancher cette différence de points au score**.  
+- **1 point de valeur métier = 1 point de score** (pour tailles S et M uniquement)
+- **🚀 BONUS DORA** : Si l'US technique **DORA-1** est complétée, **toutes les valeurs métier** des US terminées **après son achèvement** sont **multipliées par 2** !
+- **⚠️ Pénalité XL réussie** : Les tâches XL comptent seulement **50% de leur valeur métier** (floues, difficiles à estimer, valeur métier incertaine)
+- **❌ Malus échouée** : AU DEUXIEME TOUR et suivants: **-50% de la valeur métier** de la tâche non terminée
+- **📉 Malus US ouvertes** : retrancher 2 × valeur métier pour chaque US **non commencée** en fin de sprint (work-in-progress excessif)
+- **📈 Malus vélocité non alignée** : à la 2e itération vous devez appliquer la vélocité constatée à la 1ère itération (= votre capacité à produire). Si en fin de sprint, votre vélocité n'est pas atteinte, c'est à dire que vous avez moins de points effectués que prévu, **retrancher cette différence de points au score**.  
 
 > US ouvertes veut dire: non commencées
 
 #### Formule de calcul
 ```
-Score = Σ(story points S/M livrés)
-      + Σ(story points XL livrés × 0.5)
+Score = Σ(valeur métier S/M livrées × multiplicateur DORA)
+      + Σ(valeur métier XL livrées × 0.5 × multiplicateur DORA)
       - Σ(story points échouées × 0.5)
-      - (story points des US  ouvertes en fin de sprint × 2)
-```
+      - (story points des US ouvertes en fin de sprint × 2)
 
-#### Exemple
-```
-Sprint 1 : 8 pts livrés (2 M de 4 pts) + 1 US S ouverte
-Sprint 2 : 10 pts livrés (1 S + 2 M) + 0 US ouverte
-Sprint 3 : 12 pts livrés (dont 1 XL de 10 pts → 5 pts) + 2 US M ouvertes
-Sprint 4 : 1 XL échouée (10 pts)
-
-Score = 8 + 10 + (2 + 5) - 0 - (1×2) - (2×2) - (10×0.5)
-      = 8 + 10 + 7 - 2 - 4 - 5 = 14 points
+Valeur Multiplicateur DORA :
+ = 1 si DORA-1 non complétée
+ = 2 pour toutes les US terminées APRÈS la complétion de DORA-1
 ```
 
 
@@ -159,11 +152,7 @@ Points respect du temps :
 - 1 dépassement : 3 pts
 - 2+ dépassements : 0 pts
 
-Points collaboration (évaluation animateur) :
-- Excellente : 5 pts
-- Bonne : 3 pts
-- Moyenne : 1 pt
-- Faible : 0 pts
+
 ```
 
 **💡 Conseil** : Ce pilier récompense la **discipline** et l'**esprit d'équipe**.

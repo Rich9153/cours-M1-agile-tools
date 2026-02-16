@@ -15,7 +15,7 @@
 **Format :** Les stories sont déjà écrites selon le format "En tant que... Je veux... Afin de..."
 
 **À faire par les équipes :**
-1. Estimer chaque story (Planning Poker, Fibonacci)
+1. Estimer chaque story en story points (Planning Poker, Fibonacci)
 2. Estimer la valeur métier (optionnel pour Phase 1, obligatoire Phase 2)
 3. Prioriser selon la stratégie choisie
 
@@ -98,6 +98,16 @@
 | FM-38 | En tant que **client**, je veux **discuter avec l'artisan** (messagerie interne) afin de **poser des questions** | ? | ? | ? |
 | FM-39 | En tant qu'**artisan**, je veux **exporter mes commandes en CSV** afin de **gérer ma comptabilité** | ? | ? | ? |
 | FM-40 | En tant que **client**, je veux **payer par PayPal** afin d'**avoir le choix du moyen de paiement** | ? | ? | ? |
+
+---
+
+### EPIC 7 : US Techniques Spéciales
+
+| ID | User Story | Estimation | Valeur | Priorité |
+|----|-----------|------------|--------|----------|
+| DORA-1 | En tant qu'**équipe de développement**, je veux **mettre en place les métriques DORA** (Deployment Frequency, Lead Time, MTTR, Change Failure Rate) afin d'**améliorer notre performance de livraison** et **bénéficier d'un multiplicateur de valeur métier ×2** | ? | BONUS SPÉCIAL | ? |
+
+**🚀 BONUS SPÉCIAL DORA** : Une fois cette US complétée, toutes les valeurs métier des US terminées **après son achèvement** sont **multipliées par 2** jusqu'à la fin du jeu !
 
 ---
 

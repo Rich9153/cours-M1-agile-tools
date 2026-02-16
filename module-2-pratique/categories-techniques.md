@@ -63,6 +63,7 @@ Ce document définit les US techniques et leurs critères , ainsi les bonus qu'e
 ## `[ARCHI]` - Architecture & Design
 
 ### Critères d'Acceptation
+*(tirer le dé, si la valeur correspond aux critères ci dessous, alors ils sont validés, sinon continuer à tirer)*
 - Documentation architecture à jour (C4, ADR) → ⚃ Tirer **4 ou +**
 - Code review systématique (obligatoire) → ⚂ Tirer **3 ou +**
 - Refactoring de la dette technique → ⚃ Tirer **4 ou +**
