@@ -14,7 +14,6 @@ Le score final est calculé selon **4 piliers** :
 
 #### Scoring
 - **1 point de valeur métier = 1 point de score** (pour tailles S et M uniquement)
-- **🚀 BONUS DORA** : Si l'US technique **DORA-1** est complétée, **toutes les valeurs métier** des US terminées **après son achèvement** sont **multipliées par 2** !
 - **⚠️ Pénalité XL réussie** : Les tâches XL comptent seulement **50% de leur valeur métier** (floues, difficiles à estimer, valeur métier incertaine)
 - **❌ Malus échouée** : AU DEUXIEME TOUR et suivants: **-50% de la valeur métier** de la tâche non terminée
 - **📉 Malus US ouvertes** : retrancher 2 × valeur métier pour chaque US **non commencée** en fin de sprint (work-in-progress excessif)
@@ -127,35 +126,9 @@ Points dette :
 ---
 
 ### 4️⃣ Excellence opérationnelle (15 points max)
+- 
+- **🚀 BONUS DORA** : Si l'US technique **DORA-1** est complétée, **toutes les valeurs métier** des US terminées **après son achèvement** sont **multipliées par 2** !
 
-**Calcul** : Respect des bonnes pratiques Agile
-
-#### Critères évalués
-
-| Critère | Points | Description |
-|---------|--------|-------------|
-| **Régularité de livraison** | 0-5 pts | Livraison à chaque sprint |
-| **Respect du temps** | 0-5 pts | Sprints terminés dans le temps imparti |
-| **Collaboration équipe** | 0-5 pts | Qualité du travail d'équipe (subjectif, évalué par l'animateur) |
-
-#### Formule de calcul
-
-```
-Points régularité :
-- Livraison dans 100% des sprints : 5 pts
-- Livraison dans 66-99% des sprints : 3 pts
-- Livraison dans 33-65% des sprints : 1 pt
-- Livraison dans <33% des sprints : 0 pts
-
-Points respect du temps :
-- Aucun dépassement : 5 pts
-- 1 dépassement : 3 pts
-- 2+ dépassements : 0 pts
-
-
-```
-
-**💡 Conseil** : Ce pilier récompense la **discipline** et l'**esprit d'équipe**.
 
 ---
 
@@ -166,10 +139,7 @@ Points respect du temps :
 ```
 Score Total = Valeur métier (40)
             + Qualité découpage (20)
-            + Dette technique (25)
-            + Excellence opérationnelle (15)
-
-Maximum possible : 100 points
+            + Dette technique (25)       
 ```
 
 ### Grille d'évaluation
@@ -277,7 +247,7 @@ Niveau : _______________
 Ce système de scoring vise à faire comprendre :
 
  - ✅ L'importance de **livrer régulièrement de la valeur**
- - ✅ L'art du **bon découpage** (ni trop gros, ni trop petit)
+ - ✅ L'art du **bon découpage** ()
  - ✅ L'**investissement technique** paie sur le long terme
  - ✅ La **discipline** et la **collaboration** sont essentielles
 
