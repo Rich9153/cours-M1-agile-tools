@@ -95,7 +95,7 @@ Afin de **gérer ma comptabilité facilement**.
 ## Notes
 
 ### Dépendances
-- [x] FM-27 : Voir mes commandes reçues (artisan)
+- [x] EPIC-5-FM-33 : Voir mes commandes reçues (artisan)
 
 ### Priorité
 🟠 **Haute - Client stratégique**

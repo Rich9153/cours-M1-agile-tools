@@ -113,7 +113,7 @@ Comme on ne peut pas coder en 3h, voici ce que vous devez produire pour qu'une s
   - `[SECU]` → 🔒 **Critères permanents**
   - `[ARCHI]` → 🔒 **Critères permanents**
 
-**Exemple pour FM-001 (Créer un compte artisan) :**
+**Exemple pour EPIC-1-FM-001 (Créer un compte artisan) :**
 ```
 CRITÈRES D'ACCEPTATION
 
@@ -163,7 +163,7 @@ CRITÈRES D'ACCEPTATION
 
 Exemples :
 ```
-Story FM-1 (Créer un compte artisan):
+Story EPIC-1-FM-1 (Créer un compte artisan):
 - [ ] Formulaire avec email, mot de passe, nom, prénom
 - [ ] Email unique (vérification BDD)
 - [ ] Mot de passe min 8 caractères (1 majuscule, 1 chiffre)

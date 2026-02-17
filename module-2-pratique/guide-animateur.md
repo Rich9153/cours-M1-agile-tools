@@ -166,8 +166,8 @@ module-2-pratique/
 ├── systeme-de-scoring.md             # Ce fichier
 ├── user-stories/
 │   ├── TEMPLATE.md                   # Template vierge
-│   ├── FM-001-creer-compte-artisan.md
-│   ├── FM-020-ajouter-produit-panier.md
+│   ├── EPIC-1-FM-001-creer-compte-artisan.md
+│   ├── EPIC-4-FM-024-ajouter-produit-panier.md
 │   ├── TECH-001-infrastructure-test.md
 │   ├── TECH-002-pipeline-ci-cd.md
 │   ├── TECH-003-tests-unitaires-rapides.md

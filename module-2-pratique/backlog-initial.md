@@ -25,14 +25,14 @@
 
 | ID    | User Story                                                                                                                                                                                                      | Estimation | Valeur | Priorité |
 |-------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|----------|
-| FM-1  | En tant qu'**artisan**, je veux **créer un compte** afin de **pouvoir vendre mes produits**                                                                                                                     | ? | ?      | ? |
-| FM-2  | En tant qu'**artisan**, je veux **me connecter avec email/mot de passe** afin d'**accéder à mon espace**                                                                                                        | ? | ?      | ? |
-| FM-3  | En tant qu'**artisan**, je veux **réinitialiser mon mot de passe** afin de **retrouver l'accès à mon compte**                                                                                                   | ? | ?      | ? |
-| FM-4  | En tant qu'**artisan**, je veux **modifier mon profil** (nom, bio, photo) afin de **présenter mon activité**                                                                                                    | ? | ?      | ? |
-| FM-5  | En tant qu'**client**, je veux **créer un compte** afin de **passer des commandes**                                                                                                                             | ? | ?      | ? |
-| FM-6  | En tant qu'**client**, je veux **me connecter** afin d'**accéder à mes commandes**                                                                                                                              | ? | ?      | ? |
-| FM-91 | En tant qu'**utilisateur**, je veux **gérer mon compte avec toutes les options de  notifications, préférences, gestion des données personnelles et historique d'activité** afin d'**avoir un contrôle complet** | ? | 77     | ? |
-| FM-92 | En tant qu'**utilisateur**, je veux **améliorer ma sécurité** afin d'**être protégé**                                                                                                                           | ? | 45     | ? |
+| EPIC-1-FM-1  | En tant qu'**artisan**, je veux **créer un compte** afin de **pouvoir vendre mes produits**                                                                                                                     | ? | ?      | ? |
+| EPIC-1-FM-2  | En tant qu'**artisan**, je veux **me connecter avec email/mot de passe** afin d'**accéder à mon espace**                                                                                                        | ? | ?      | ? |
+| EPIC-1-FM-3  | En tant qu'**artisan**, je veux **réinitialiser mon mot de passe** afin de **retrouver l'accès à mon compte**                                                                                                   | ? | ?      | ? |
+| EPIC-1-FM-4  | En tant qu'**artisan**, je veux **modifier mon profil** (nom, bio, photo) afin de **présenter mon activité**                                                                                                    | ? | ?      | ? |
+| EPIC-1-FM-5  | En tant qu'**client**, je veux **créer un compte** afin de **passer des commandes**                                                                                                                             | ? | ?      | ? |
+| EPIC-1-FM-6  | En tant qu'**client**, je veux **me connecter** afin d'**accéder à mes commandes**                                                                                                                              | ? | ?      | ? |
+| EPIC-1-FM-7 | En tant qu'**utilisateur**, je veux **gérer mon compte avec toutes les options de  notifications, préférences, gestion des données personnelles et historique d'activité** afin d'**avoir un contrôle complet** | ? | 77     | ? |
+| EPIC-1-FM-8 | En tant qu'**utilisateur**, je veux **améliorer ma sécurité** afin d'**être protégé**                                                                                                                           | ? | 45     | ? |
 
 ---
 
@@ -40,13 +40,13 @@
 
 | ID    | User Story                                                                                                                                                                                | Estimation | Valeur | Priorité |
 |-------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|----------|
-| FM-7  | En tant qu'**artisan**, je veux **ajouter un produit** (nom, description, prix, photo) afin de **le vendre**                                                                              | ?          | ?      | ? |
-| FM-8  | En tant qu'**artisan**, je veux **voir la liste de mes produits** afin de **gérer mon catalogue** en modifiant et supprimant des articles                                                 | XL         | ?      | ? |
-| FM-11 | En tant qu'**artisan**, je veux **définir le stock disponible** afin d'**éviter les surventes**                                                                                           | ?          | ?      | ? |
-| FM-12 | En tant qu'**artisan**, je veux **ajouter plusieurs photos à un produit** afin de **mieux le présenter**                                                                                  | ?          | ?      | ? |
-| FM-13 | En tant qu'**artisan**, je veux **catégoriser mes produits** (bijoux, poterie, textile...) afin de **faciliter la recherche**                                                             | ?          | ?      | ? |
-| FM-81 | En tant qu'**artisan**, je veux **gérer de façon avancée mes produits incluant   les promotions,   les produits liés et les recommandations** afin de **professionnaliser mon catalogue** | ? | 80     | ? |
-| FM-82 | En tant qu'**artisan**, je veux **optimiser mon catalogue** afin d'**améliorer mes ventes**                                                                                               | ? | 72     | ? |
+| EPIC-2-FM-9  | En tant qu'**artisan**, je veux **ajouter un produit** (nom, description, prix, photo) afin de **le vendre**                                                                              | ?          | ?      | ? |
+| EPIC-2-FM-10  | En tant qu'**artisan**, je veux **voir la liste de mes produits** afin de **gérer mon catalogue** en modifiant et supprimant des articles                                                 | XL         | ?      | ? |
+| EPIC-2-FM-11 | En tant qu'**artisan**, je veux **définir le stock disponible** afin d'**éviter les surventes**                                                                                           | ?          | ?      | ? |
+| EPIC-2-FM-12 | En tant qu'**artisan**, je veux **ajouter plusieurs photos à un produit** afin de **mieux le présenter**                                                                                  | ?          | ?      | ? |
+| EPIC-2-FM-13 | En tant qu'**artisan**, je veux **catégoriser mes produits** (bijoux, poterie, textile...) afin de **faciliter la recherche**                                                             | ?          | ?      | ? |
+| EPIC-2-FM-14 | En tant qu'**artisan**, je veux **gérer de façon avancée mes produits incluant   les promotions,   les produits liés et les recommandations** afin de **professionnaliser mon catalogue** | ? | 80     | ? |
+| EPIC-2-FM-15 | En tant qu'**artisan**, je veux **optimiser mon catalogue** afin d'**améliorer mes ventes**                                                                                               | ? | 72     | ? |
 
 ---
 
@@ -54,14 +54,14 @@
 
 | ID    | User Story | Estimation | Valeur | Priorité |
 |-------|-----------|------------|--------|----------|
-| FM-14 | En tant que **client**, je veux **voir tous les produits disponibles** afin de **découvrir l'offre** | ? | ?      | ? |
-| FM-15 | En tant que **client**, je veux **voir le détail d'un produit** (photos, description, prix) afin de **décider d'acheter** | ? | ?      | ? |
-| FM-16 | En tant que **client**, je veux **filtrer par catégorie** afin de **trouver ce qui m'intéresse** | ? | ?      | ? |
-| FM-17 | En tant que **client**, je veux **rechercher un produit par mots-clés** afin de **trouver rapidement** | ? | ?      | ? |
-| FM-18 | En tant que **client**, je veux **trier par prix** (croissant/décroissant) afin de **respecter mon budget** | ? | ?      | ? |
-| FM-19 | En tant que **client**, je veux **voir les produits d'un artisan spécifique** afin de **découvrir son catalogue complet** | ? | ?      | ? |
-| FM-71 | En tant que **client**, je veux **avoir une recherche avancée avec filtres multiples (prix min/max, localisation de l'artisan, matériaux, délais de livraison, notes), tri personnalisé,  et historique de recherche** afin de **trouver exactement ce que je cherche** | ? | 65     | ? |
-| FM-72 | En tant que **client**, je veux **améliorer ma recherche** afin de **mieux découvrir les produits** | ? | 50     | ? |
+| EPIC-3-FM-16 | En tant que **client**, je veux **voir tous les produits disponibles** afin de **découvrir l'offre** | ? | ?      | ? |
+| EPIC-3-FM-17 | En tant que **client**, je veux **voir le détail d'un produit** (photos, description, prix) afin de **décider d'acheter** | ? | ?      | ? |
+| EPIC-3-FM-18 | En tant que **client**, je veux **filtrer par catégorie** afin de **trouver ce qui m'intéresse** | ? | ?      | ? |
+| EPIC-3-FM-19 | En tant que **client**, je veux **rechercher un produit par mots-clés** afin de **trouver rapidement** | ? | ?      | ? |
+| EPIC-3-FM-20 | En tant que **client**, je veux **trier par prix** (croissant/décroissant) afin de **respecter mon budget** | ? | ?      | ? |
+| EPIC-3-FM-21 | En tant que **client**, je veux **voir les produits d'un artisan spécifique** afin de **découvrir son catalogue complet** | ? | ?      | ? |
+| EPIC-3-FM-22 | En tant que **client**, je veux **avoir une recherche avancée avec filtres multiples (prix min/max, localisation de l'artisan, matériaux, délais de livraison, notes), tri personnalisé,  et historique de recherche** afin de **trouver exactement ce que je cherche** | ? | 65     | ? |
+| EPIC-3-FM-23 | En tant que **client**, je veux **améliorer ma recherche** afin de **mieux découvrir les produits** | ? | 50     | ? |
 
 ---
 
@@ -69,15 +69,15 @@
 
 | ID    | User Story                                                                                                                                                                                                                                                                        | Estimation | Valeur | Priorité |
 |-------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|----------|
-| FM-20 | En tant que **client**, je veux **ajouter un produit au panier** afin de **préparer ma commande**                                                                                                                                                                                 | ? | ?      | ? |
-| FM-21 | En tant que **client**, je veux **voir mon panier** afin de **vérifier mes articles**                                                                                                                                                                                             | ? | ?      | ? |
-| FM-22 | En tant que **client**, je veux **modifier la quantité dans le panier** afin d'**ajuster ma commande**                                                                                                                                                                            | ? | ?      | ? |
-| FM-23 | En tant que **client**, je veux **retirer un article du panier** afin de **changer d'avis**                                                                                                                                                                                       | ? | ?      | ? |
-| FM-24 | En tant que **client**, je veux **passer commande** (valider le panier) afin de **finaliser mon achat**                                                                                                                                                                           | ? | ?      | ? |
-| FM-25 | En tant que **client**, je veux **entrer mon adresse de livraison** afin de **recevoir ma commande**                                                                                                                                                                              | ? | ?      | ? |
-| FM-26 | En tant que **client**, je veux **payer par carte bancaire** (intégration Stripe) afin de **régler ma commande**                                                                                                                                                                  | ? | ?      | ? |
-| FM-61 | En tant que **client**, je veux **bénéficier d'un tunnel de commande complet** avec   calcul automatique de la TVA selon la localisation, options de livraison multiples avec tarifs dynamiques,  emballage cadeau et assurance colis afin de **finaliser mes achats facilement** | ? | 80     | ? |
-| FM-62 | En tant que **client**, je veux **améliorer mon expérience d'achat** afin d'**être satisfait**                                                                                                                                                                                    | ? | ?      | ? |
+| EPIC-4-FM-24 | En tant que **client**, je veux **ajouter un produit au panier** afin de **préparer ma commande**                                                                                                                                                                                 | ? | ?      | ? |
+| EPIC-4-FM-25 | En tant que **client**, je veux **voir mon panier** afin de **vérifier mes articles**                                                                                                                                                                                             | ? | ?      | ? |
+| EPIC-4-FM-26 | En tant que **client**, je veux **modifier la quantité dans le panier** afin d'**ajuster ma commande**                                                                                                                                                                            | ? | ?      | ? |
+| EPIC-4-FM-27 | En tant que **client**, je veux **retirer un article du panier** afin de **changer d'avis**                                                                                                                                                                                       | ? | ?      | ? |
+| EPIC-4-FM-28 | En tant que **client**, je veux **passer commande** (valider le panier) afin de **finaliser mon achat**                                                                                                                                                                           | ? | ?      | ? |
+| EPIC-4-FM-29 | En tant que **client**, je veux **entrer mon adresse de livraison** afin de **recevoir ma commande**                                                                                                                                                                              | ? | ?      | ? |
+| EPIC-4-FM-30 | En tant que **client**, je veux **payer par carte bancaire** (intégration Stripe) afin de **régler ma commande**                                                                                                                                                                  | ? | ?      | ? |
+| EPIC-4-FM-31 | En tant que **client**, je veux **bénéficier d'un tunnel de commande complet** avec   calcul automatique de la TVA selon la localisation, options de livraison multiples avec tarifs dynamiques,  emballage cadeau et assurance colis afin de **finaliser mes achats facilement** | ? | 80     | ? |
+| EPIC-4-FM-32 | En tant que **client**, je veux **améliorer mon expérience d'achat** afin d'**être satisfait**                                                                                                                                                                                    | ? | ?      | ? |
 
 ---
 
@@ -85,13 +85,13 @@
 
 | ID    | User Story                                                                                                                                                                                                                                                                                        | Estimation | Valeur | Priorité |
 |-------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|----------|
-| FM-27 | En tant qu'**artisan**, je veux **voir mes commandes reçues** afin de **les préparer**                                                                                                                                                                                                            | ? | ?      | ? |
-| FM-28 | En tant qu'**artisan**, je veux **marquer une commande comme expédiée** afin d'**informer le client**                                                                                                                                                                                             | ? | ?      | ? |
-| FM-29 | En tant que **client**, je veux **voir l'historique de mes commandes** afin de **suivre mes achats**                                                                                                                                                                                              | ? | ?      | ? |
-| FM-30 | En tant que **client**, je veux **voir le statut de ma commande** (en préparation, expédiée, livrée) afin de **savoir où elle en est**                                                                                                                                                            | ? | ?      | ? |
-| FM-31 | En tant que **client**, je veux **recevoir un email de confirmation** après commande afin d'**avoir une preuve d'achat**                                                                                                                                                                          | ? | ?      | ? |
-| FM-51 | En tant qu'**artisan**, je veux **gérer complètement mes commandes*** incluant la modification après validation, l'annulation avec gestion des remboursements, les retours clients, les échanges, les litiges, le suivi des transporteurs en temps réel afin de **professionnaliser mon service** | ? | 68     | ? |
-| FM-52 | En tant qu'**utilisateur**, je veux **améliorer le suivi des commandes** afin d'**être mieux informé**                                                                                                                                                                                            | ? | 40     | ? |
+| EPIC-5-FM-33 | En tant qu'**artisan**, je veux **voir mes commandes reçues** afin de **les préparer**                                                                                                                                                                                                            | ? | ?      | ? |
+| EPIC-5-FM-34 | En tant qu'**artisan**, je veux **marquer une commande comme expédiée** afin d'**informer le client**                                                                                                                                                                                             | ? | ?      | ? |
+| EPIC-5-FM-35 | En tant que **client**, je veux **voir l'historique de mes commandes** afin de **suivre mes achats**                                                                                                                                                                                              | ? | ?      | ? |
+| EPIC-5-FM-36 | En tant que **client**, je veux **voir le statut de ma commande** (en préparation, expédiée, livrée) afin de **savoir où elle en est**                                                                                                                                                            | ? | ?      | ? |
+| EPIC-5-FM-37 | En tant que **client**, je veux **recevoir un email de confirmation** après commande afin d'**avoir une preuve d'achat**                                                                                                                                                                          | ? | ?      | ? |
+| EPIC-5-FM-38 | En tant qu'**artisan**, je veux **gérer complètement mes commandes*** incluant la modification après validation, l'annulation avec gestion des remboursements, les retours clients, les échanges, les litiges, le suivi des transporteurs en temps réel afin de **professionnaliser mon service** | ? | 68     | ? |
+| EPIC-5-FM-39 | En tant qu'**utilisateur**, je veux **améliorer le suivi des commandes** afin d'**être mieux informé**                                                                                                                                                                                            | ? | 40     | ? |
 
 ---
 
@@ -99,17 +99,17 @@
 
 | ID    | User Story | Estimation | Valeur | Priorité |
 |-------|-----------|------------|--------|----------|
-| FM-32 | En tant que **client**, je veux **laisser un avis sur un produit** afin de **partager mon expérience** | ? | ?      | ? |
-| FM-33 | En tant que **client**, je veux **ajouter un produit à mes favoris** afin de **le retrouver facilement** | ? | ?      | ? |
-| FM-34 | En tant qu'**artisan**, je veux **voir mes statistiques de vente** (CA, nb commandes) afin de **suivre mon activité** | ? | ?      | ? |
-| FM-35 | En tant qu'**artisan**, je veux **offrir un code promo** afin d'**attirer des clients** | ? | ?      | ? |
-| FM-36 | En tant que **client**, je veux **recevoir des notifications** (nouvelle commande, expédition) afin d'**être informé en temps réel** | ? | ?      | ? |
-| FM-37 | En tant qu'**admin**, je veux **valider les comptes artisans** afin de **vérifier leur légitimité** | ? | ?      | ? |
-| FM-38 | En tant que **client**, je veux **discuter avec l'artisan** (messagerie interne) afin de **poser des questions** | ? | ?      | ? |
-| FM-39 | En tant qu'**artisan**, je veux **exporter mes commandes en CSV** afin de **gérer ma comptabilité** | ? | ?      | ? |
-| FM-40 | En tant que **client**, je veux **payer par PayPal** afin d'**avoir le choix du moyen de paiement** | ? | ?      | ? |
-| FM-41 | En tant que **client**, je veux **un système complet d'engagement incluant un programme de fidélité multi-niveaux, des badges de progression, un système de parrainage avec récompenses, ** afin de **m'engager avec la plateforme** | ? | 75     | ? |
-| FM-42 | En tant qu'**utilisateur**, je veux **améliorer l'expérience globale** afin d'**être plus satisfait** | ? | 50     | ? |
+| EPIC-6-FM-40 | En tant que **client**, je veux **laisser un avis sur un produit** afin de **partager mon expérience** | ? | ?      | ? |
+| EPIC-6-FM-41 | En tant que **client**, je veux **ajouter un produit à mes favoris** afin de **le retrouver facilement** | ? | ?      | ? |
+| EPIC-6-FM-42 | En tant qu'**artisan**, je veux **voir mes statistiques de vente** (CA, nb commandes) afin de **suivre mon activité** | ? | ?      | ? |
+| EPIC-6-FM-43 | En tant qu'**artisan**, je veux **offrir un code promo** afin d'**attirer des clients** | ? | ?      | ? |
+| EPIC-6-FM-44 | En tant que **client**, je veux **recevoir des notifications** (nouvelle commande, expédition) afin d'**être informé en temps réel** | ? | ?      | ? |
+| EPIC-6-FM-45 | En tant qu'**admin**, je veux **valider les comptes artisans** afin de **vérifier leur légitimité** | ? | ?      | ? |
+| EPIC-6-FM-46 | En tant que **client**, je veux **discuter avec l'artisan** (messagerie interne) afin de **poser des questions** | ? | ?      | ? |
+| EPIC-6-FM-47 | En tant qu'**artisan**, je veux **exporter mes commandes en CSV** afin de **gérer ma comptabilité** | ? | ?      | ? |
+| EPIC-6-FM-48 | En tant que **client**, je veux **payer par PayPal** afin d'**avoir le choix du moyen de paiement** | ? | ?      | ? |
+| EPIC-6-FM-49 | En tant que **client**, je veux **un système complet d'engagement incluant un programme de fidélité multi-niveaux, des badges de progression, un système de parrainage avec récompenses, ** afin de **m'engager avec la plateforme** | ? | 75     | ? |
+| EPIC-6-FM-50 | En tant qu'**utilisateur**, je veux **améliorer l'expérience globale** afin d'**être plus satisfait** | ? | 50     | ? |
 
 
 ---
@@ -134,15 +134,15 @@ Ces stories apparaîtront pendant le jeu, simulant la réalité :
 
 ### 1. Première tâche JOUR 1: Estimation (15-20 min)
 
-**En équipe, estimez TOUTES les stories du backlog initial (FM-1 à FM-40) :**
+**En équipe, estimez TOUTES les stories du backlog initial (EPIC-1-FM-1 à EPIC-6-FM-48) :**
 
 1. Utilisez le **Planning Poker** (cartes Fibonacci : 1, 2, 3, 5, 8, 13)
-2. Prenez FM-7 ("Ajouter un produit") comme **référence = 5 points**
+2. Prenez EPIC-2-FM-9 ("Ajouter un produit") comme **référence = 5 points**
 3. Estimez de manière relative
 
 **Référence suggérée :**
 ```
-FM-7 (Ajouter un produit) = 5 points
+EPIC-2-FM-9 (Ajouter un produit) = 5 points
 → Stories plus simples (ex: connexion) = 2-3 pts
 → Stories plus complexes (ex: paiement Stripe) = 8-13 pts
 ```

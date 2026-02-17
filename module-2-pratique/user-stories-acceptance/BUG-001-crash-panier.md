@@ -70,7 +70,7 @@
 ## Notes
 
 ### Dépendances
-- Bloque : Toutes les US du panier (FM-20 à FM-24)
+- Bloque : Toutes les US du panier (EPIC-4-FM-24 à EPIC-4-FM-28)
 - Apparaît pendant : Sprint 2
 
 ### Priorité

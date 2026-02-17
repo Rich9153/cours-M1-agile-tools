@@ -93,8 +93,8 @@ Afin de **régler ma commande de manière sécurisée**.
 ## Notes
 
 ### Dépendances
-- [x] FM-24 : Passer commande (valider le panier)
-- [x] FM-21 : Voir mon panier
+- [x] EPIC-4-FM-28 : Passer commande (valider le panier)
+- [x] EPIC-4-FM-25 : Voir mon panier
 
 ### Priorité
 🔴🔴🔴 **URGENT - DEADLINE INVESTISSEUR**
