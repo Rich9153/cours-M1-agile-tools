@@ -55,13 +55,13 @@
 | ID    | User Story | Estimation | Valeur | Priorité |
 |-------|-----------|------------|--------|----------|
 | EPIC-3-FM-16 | En tant que **client**, je veux **voir tous les produits disponibles** afin de **découvrir l'offre** | 5 | M      | ? |
-| EPIC-3-FM-17 | En tant que **client**, je veux **voir le détail d'un produit** (photos, description, prix) afin de **décider d'acheter** | ? | ?      | ? |
-| EPIC-3-FM-18 | En tant que **client**, je veux **filtrer par catégorie** afin de **trouver ce qui m'intéresse** | ? | ?      | ? |
-| EPIC-3-FM-19 | En tant que **client**, je veux **rechercher un produit par mots-clés** afin de **trouver rapidement** | ? | ?      | ? |
-| EPIC-3-FM-20 | En tant que **client**, je veux **trier par prix** (croissant/décroissant) afin de **respecter mon budget** | ? | ?      | ? |
-| EPIC-3-FM-21 | En tant que **client**, je veux **voir les produits d'un artisan spécifique** afin de **découvrir son catalogue complet** | ? | ?      | ? |
-| EPIC-3-FM-22 | En tant que **client**, je veux **avoir une recherche avancée avec filtres multiples (prix min/max, localisation de l'artisan, matériaux, délais de livraison, notes), tri personnalisé,  et historique de recherche** afin de **trouver exactement ce que je cherche** | ? | 65     | ? |
-| EPIC-3-FM-23 | En tant que **client**, je veux **améliorer ma recherche** afin de **mieux découvrir les produits** | ? | 50     | ? |
+| EPIC-3-FM-17 | En tant que **client**, je veux **voir le détail d'un produit** (photos, description, prix) afin de **décider d'acheter** | 5 | XL      | ? |
+| EPIC-3-FM-18 | En tant que **client**, je veux **filtrer par catégorie** afin de **trouver ce qui m'intéresse** | 2 | XL      | ? |
+| EPIC-3-FM-19 | En tant que **client**, je veux **rechercher un produit par mots-clés** afin de **trouver rapidement** | 5 | L      | ? |
+| EPIC-3-FM-20 | En tant que **client**, je veux **trier par prix** (croissant/décroissant) afin de **respecter mon budget** | 5 | L      | ? |
+| EPIC-3-FM-21 | En tant que **client**, je veux **voir les produits d'un artisan spécifique** afin de **découvrir son catalogue complet** | 8 | M      | ? |
+| EPIC-3-FM-22 | En tant que **client**, je veux **avoir une recherche avancée avec filtres multiples (prix min/max, localisation de l'artisan, matériaux, délais de livraison, notes), tri personnalisé,  et historique de recherche** afin de **trouver exactement ce que je cherche** |8 |   XL   | ? |
+| EPIC-3-FM-23 | En tant que **client**, je veux **améliorer ma recherche** afin de **mieux découvrir les produits** | 8 | XL     | ? |
 
 ---
 
