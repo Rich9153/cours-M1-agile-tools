@@ -40,10 +40,10 @@
 
 | ID    | User Story                                                                                                                                                                                | Estimation | Valeur | Priorité |
 |-------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|----------|
-| EPIC-2-FM-9  | En tant qu'**artisan**, je veux **ajouter un produit** (nom, description, prix, photo) afin de **le vendre**                                                                              | 5          | 6     | ? |
+| EPIC-2-FM-9  | En tant qu'**artisan**, je veux **ajouter un produit** (nom, description, prix, photo) afin de **le vendre**                                                                              | 5          | 5     | ? |
 | EPIC-2-FM-10  | En tant qu'**artisan**, je veux **voir la liste de mes produits** afin de **gérer mon catalogue** en modifiant et supprimant des articles                                                 | 10         | 8      | ? |
-| EPIC-2-FM-11 | En tant qu'**artisan**, je veux **définir le stock disponible** afin d'**éviter les surventes**                                                                                           | 5          | 1      | ? |
-| EPIC-2-FM-12 | En tant qu'**artisan**, je veux **ajouter plusieurs photos à un produit** afin de **mieux le présenter**                                                                                  | 5          | 11      | ? |
+| EPIC-2-FM-11 | En tant qu'**artisan**, je veux **définir le stock disponible** afin d'**éviter les surventes**                                                                                           | 5          | 2      | ? |
+| EPIC-2-FM-12 | En tant qu'**artisan**, je veux **ajouter plusieurs photos à un produit** afin de **mieux le présenter**                                                                                  | 5          | 8      | ? |
 | EPIC-2-FM-13 | En tant qu'**artisan**, je veux **catégoriser mes produits** (bijoux, poterie, textile...) afin de **faciliter la recherche**                                                             | 2          | 5      | ? |
 | EPIC-2-FM-14 | En tant qu'**artisan**, je veux **gérer de façon avancée mes produits incluant   les promotions,   les produits liés et les recommandations** afin de **professionnaliser mon catalogue** | 4 | 80     | ? |
 | EPIC-2-FM-15 | En tant qu'**artisan**, je veux **optimiser mon catalogue** afin d'**améliorer mes ventes**                                                                                               | 2 | 72     | ? |
