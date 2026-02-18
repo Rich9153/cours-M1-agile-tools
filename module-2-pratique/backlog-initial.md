@@ -25,14 +25,14 @@
 
 | ID    | User Story                                                                                                                                                                                                      | Estimation | Valeur | Priorité |
 |-------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|----------|
-| EPIC-1-FM-1  | En tant qu'**artisan**, je veux **créer un compte** afin de **pouvoir vendre mes produits**                                                                                                                     | ? | ?      | ? |
-| EPIC-1-FM-2  | En tant qu'**artisan**, je veux **me connecter avec email/mot de passe** afin d'**accéder à mon espace**                                                                                                        | ? | ?      | ? |
+| EPIC-1-FM-1  | En tant qu'**artisan**, je veux **créer un compte** afin de **pouvoir vendre mes produits**                                                                                                                     | 2 | 2      | ? |
+| EPIC-1-FM-2  | En tant qu'**artisan**, je veux **me connecter avec email/mot de passe** afin d'**accéder à mon espace**                                                                                                        | 2 | 2      | ? |
 | EPIC-1-FM-3  | En tant qu'**artisan**, je veux **réinitialiser mon mot de passe** afin de **retrouver l'accès à mon compte**                                                                                                   | 8 | 8      | ? |
 | EPIC-1-FM-4  | En tant qu'**artisan**, je veux **modifier mon profil** (nom, bio, photo) afin de **présenter mon activité**                                                                                                    | 9 | 5      | ? |
 | EPIC-1-FM-5  | En tant qu'**client**, je veux **créer un compte** afin de **passer des commandes**                                                                                                                             | 9 | 2      | ? |
 | EPIC-1-FM-6  | En tant qu'**client**, je veux **me connecter** afin d'**accéder à mes commandes**                                                                                                                              | 2 | 8      | ? |
-| EPIC-1-FM-7 | En tant qu'**utilisateur**, je veux **gérer mon compte avec toutes les options de  notifications, préférences, gestion des données personnelles et historique d'activité** afin d'**avoir un contrôle complet** | ? | 77     | ? |
-| EPIC-1-FM-8 | En tant qu'**utilisateur**, je veux **améliorer ma sécurité** afin d'**être protégé**                                                                                                                           | ? | 45     | ? |
+| EPIC-1-FM-7 | En tant qu'**utilisateur**, je veux **gérer mon compte avec toutes les options de  notifications, préférences, gestion des données personnelles et historique d'activité** afin d'**avoir un contrôle complet** | 3 | 77     | ? |
+| EPIC-1-FM-8 | En tant qu'**utilisateur**, je veux **améliorer ma sécurité** afin d'**être protégé**                                                                                                                           | 2 | 45     | ? |
 
 ---
 
