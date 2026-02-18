@@ -99,17 +99,17 @@
 
 | ID    | User Story | Estimation | Valeur | Priorité |
 |-------|-----------|------------|--------|----------|
-| EPIC-6-FM-40 | En tant que **client**, je veux **laisser un avis sur un produit** afin de **partager mon expérience** | ? | ?      | ? |
-| EPIC-6-FM-41 | En tant que **client**, je veux **ajouter un produit à mes favoris** afin de **le retrouver facilement** | ? | ?      | ? |
-| EPIC-6-FM-42 | En tant qu'**artisan**, je veux **voir mes statistiques de vente** (CA, nb commandes) afin de **suivre mon activité** | ? | ?      | ? |
-| EPIC-6-FM-43 | En tant qu'**artisan**, je veux **offrir un code promo** afin d'**attirer des clients** | ? | ?      | ? |
-| EPIC-6-FM-44 | En tant que **client**, je veux **recevoir des notifications** (nouvelle commande, expédition) afin d'**être informé en temps réel** | ? | ?      | ? |
-| EPIC-6-FM-45 | En tant qu'**admin**, je veux **valider les comptes artisans** afin de **vérifier leur légitimité** | ? | ?      | ? |
-| EPIC-6-FM-46 | En tant que **client**, je veux **discuter avec l'artisan** (messagerie interne) afin de **poser des questions** | ? | ?      | ? |
-| EPIC-6-FM-47 | En tant qu'**artisan**, je veux **exporter mes commandes en CSV** afin de **gérer ma comptabilité** | ? | ?      | ? |
-| EPIC-6-FM-48 | En tant que **client**, je veux **payer par PayPal** afin d'**avoir le choix du moyen de paiement** | ? | ?      | ? |
-| EPIC-6-FM-49 | En tant que **client**, je veux **un système complet d'engagement incluant un programme de fidélité multi-niveaux, des badges de progression, un système de parrainage avec récompenses, ** afin de **m'engager avec la plateforme** | ? | 75     | ? |
-| EPIC-6-FM-50 | En tant qu'**utilisateur**, je veux **améliorer l'expérience globale** afin d'**être plus satisfait** | ? | 50     | ? |
+| EPIC-6-FM-40 | En tant que **client**, je veux **laisser un avis sur un produit** afin de **partager mon expérience** | 3 | 2      | min |
+| EPIC-6-FM-41 | En tant que **client**, je veux **ajouter un produit à mes favoris** afin de **le retrouver facilement** | 4 | 2      | moy |
+| EPIC-6-FM-42 | En tant qu'**artisan**, je veux **voir mes statistiques de vente** (CA, nb commandes) afin de **suivre mon activité** | 6 | 5      | max |
+| EPIC-6-FM-43 | En tant qu'**artisan**, je veux **offrir un code promo** afin d'**attirer des clients** | 7 | 5      | moy |
+| EPIC-6-FM-44 | En tant que **client**, je veux **recevoir des notifications** (nouvelle commande, expédition) afin d'**être informé en temps réel** | 5 | 2      | min |
+| EPIC-6-FM-45 | En tant qu'**admin**, je veux **valider les comptes artisans** afin de **vérifier leur légitimité** | 3 | 2      | min |
+| EPIC-6-FM-46 | En tant que **client**, je veux **discuter avec l'artisan** (messagerie interne) afin de **poser des questions** | 6 | 5      | min |
+| EPIC-6-FM-47 | En tant qu'**artisan**, je veux **exporter mes commandes en CSV** afin de **gérer ma comptabilité** | 5 | 5      | max |
+| EPIC-6-FM-48 | En tant que **client**, je veux **payer par PayPal** afin d'**avoir le choix du moyen de paiement** | 7 | 8      | min |
+| EPIC-6-FM-49 | En tant que **client**, je veux **un système complet d'engagement incluant un programme de fidélité multi-niveaux, des badges de progression, un système de parrainage avec récompenses, ** afin de **m'engager avec la plateforme** | 10 | 16     | min |
+| EPIC-6-FM-50 | En tant qu'**utilisateur**, je veux **améliorer l'expérience globale** afin d'**être plus satisfait** | 12 | 16     | min |
 
 
 ---
