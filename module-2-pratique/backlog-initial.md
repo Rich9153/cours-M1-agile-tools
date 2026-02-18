@@ -54,7 +54,7 @@
 
 | ID    | User Story | Estimation | Valeur | Priorité |
 |-------|-----------|------------|--------|----------|
-| EPIC-3-FM-16 | En tant que **client**, je veux **voir tous les produits disponibles** afin de **découvrir l'offre** | ? | ?      | ? |
+| EPIC-3-FM-16 | En tant que **client**, je veux **voir tous les produits disponibles** afin de **découvrir l'offre** | 5 | M      | ? |
 | EPIC-3-FM-17 | En tant que **client**, je veux **voir le détail d'un produit** (photos, description, prix) afin de **décider d'acheter** | ? | ?      | ? |
 | EPIC-3-FM-18 | En tant que **client**, je veux **filtrer par catégorie** afin de **trouver ce qui m'intéresse** | ? | ?      | ? |
 | EPIC-3-FM-19 | En tant que **client**, je veux **rechercher un produit par mots-clés** afin de **trouver rapidement** | ? | ?      | ? |
